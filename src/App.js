@@ -1,6 +1,7 @@
 import './App.css';
 
 function App() {
+  return (
   <div className="App">
     {/* Header/Navigation */}
 <header className='header'>
@@ -91,6 +92,7 @@ function App() {
 </section>
 
   </div>
+  );
 }
 
 export default App;
