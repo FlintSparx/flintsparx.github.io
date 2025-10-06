@@ -10,7 +10,7 @@ function App() {
     <nav className='nav'>
       <a href='#About'>About</a>
       <a href='#Projects'>Projects</a>
-      <a href='Contact'>Contact</a>
+      <a href='#Contact'>Contact</a>
     </nav>
   </div>
 </header>
