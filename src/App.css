@@ -109,4 +109,52 @@ transition: color 0.3s ease;
   transform: translateY(-2px);
 }
 
+.btn-secondary {
+  background: transparent;
+  color: white;
+  border: 2px solid white;
+}
+
+.btn-seconday:hover {
+  background: white;
+  color: #667eea;
+}
+
+/* Section Styles */
+
+section {
+  padding: 4rem 0;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+
+}
+
+.section-subtitle {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 3rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* About Section */
+
+.about {
+  background: white;
+}
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto 3rem auto;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
 
