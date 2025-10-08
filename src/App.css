@@ -45,6 +45,11 @@ body {
   text-decoration: none;
 }
 
+.nav {
+  display: flex;
+  gap: 2rem;
+}
+
 .nav a {
 text-decoration: none;
 color: #666;
