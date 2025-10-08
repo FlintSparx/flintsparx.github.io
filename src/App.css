@@ -50,6 +50,7 @@ text-decoration: none;
 color: #666;
 font-weight: 500;
 transition: color 0.3s ease;
+justify-content: space-between;
 }
 
 .nav a:hover {
